@@ -2,13 +2,14 @@
 
 - 📊 Used to be a media planning and buying analyst.
 - 💻 Now a junior BackEnd Engineer.
-- 🧋 Currently working on [buymeboba](https://buymeboba.today/).
+- 🧋 Worked at [buymeboba](https://buymeboba.today/).
 - 🚀 Hoping to travel the world one day with my profession.
      
 ### Language
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=MongoDB)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
